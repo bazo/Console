@@ -1,3 +1,4 @@
+<?php
 namespace Console\Helper;
 
 use Symfony\Component\Console\Helper\Helper;
